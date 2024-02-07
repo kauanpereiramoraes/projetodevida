@@ -1,17 +1,12 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meus objetivos do ano</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-:root{
-    --cor-de-fundo: #1E1E1E;
+--cor-de-fundo: #1E1E1E;
 }
 :root{
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --cor-de-fundo: #1E1E1E; #1E1E1E;
+    --verde: #6FFF57; #6FFFF57
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #3A375E; #3A375A
+    --botao-inativo: rgba(58,55,94,o.1)
+    --texto-fundo: rgba(58,55,94,0.3)
 }
+import url('https://fonts.googleapis.com
+/css2?family-Chakra+Petch:w ght@400:700&display=swap'); 
