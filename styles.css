@@ -100,9 +100,9 @@ body {
     min-width: 100px;
 }
 
-.contador-digito-numero{
-    font-size: 80px;
-    margin: 0;
+.contador{
+    font-size: 20px;
+    text-align: center;
 
 }
 
