@@ -38,13 +38,15 @@ function calculaTempo(tempoObjetivo) {
  return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
 }
 
+} else {
+      return "Prazo Finalizado"
+  }
+}
+
 function atualizaCronometro(){
     for (let i=0; i<contadores.length;i++){
         contadores[i].textContent = calculaTempo(tempos[i]);   
     }
 }
 
-} else {
-      return "Prazo Finalizado"
-  }
-}
+
